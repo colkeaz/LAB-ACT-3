@@ -215,8 +215,9 @@ mage = Mage(name="Lylia", level=7, health=2100, mana=250, defense=130, damage_ty
 marksman = Marksman(name="Miya", level=6, health=1800, mana=100, defense=100, damage_type="Physical", attack_power= 300, range="120%", penetration="150%")
 support = Support(name="Rafaela", level=5, health=1800, mana=150, defense=130, damage_type="Magic", attack_power=100, healing="120%", buff_rate="70%")
 
-print("\n\n\n1.Showcase Characters \n2.Simulate battle\n3.Exit")
+
 while True:
+    print("\n\n\n1.Showcase Characters \n2.Simulate battle\n3.Exit")
     choice = input("Choose(1/2/3):")
     if choice == "1":
         print("Tank:")
