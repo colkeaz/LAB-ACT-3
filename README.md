@@ -1,4 +1,4 @@
-# **🎮 Game Character**
+# **🎮 Game Characters**
 ![GAME CHARACTERS](https://github.com/user-attachments/assets/1574d908-e466-46a2-b3ca-ae967130979e)
 
 ---
