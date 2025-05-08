@@ -32,7 +32,7 @@ This program simulates a game character system inspired by Mobile Legends: Bang 
 🧿 **Support:** Healing and buffing capabilities
 
 
-⚙ **Interactive Menu:** Allows users to view character stats or simulate a battle sequence
+3.  **Interactive Menu:** Allows users to view character stats or simulate a battle sequence
 
 ---
 ### **How to Run the Program** (di ko knows ilalagay)
