@@ -62,9 +62,13 @@ Option 3: Exit - Terminates the program
 ### **🔔 Acknowledgement**
 
 This program was created as an educational demonstration of object-oriented programming concepts in Python, particularly:
+
 💻 **Abstract base classes**
+
 💻 **Inheritance**
+
 💻 **Polymorphism**
+
 💻 **Encapsulation**
 
 The character classes and mechanics are inspired by **Mobile Legends: Bang Bang**, though simplified for demonstration purposes. This implementation serves as a foundation that could be expanded into a more comprehensive game system with additional features like actual combat calculations, character interactions, and more sophisticated battle simulations.
