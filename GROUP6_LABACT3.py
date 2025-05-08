@@ -45,11 +45,7 @@ class Tank(GameCharacter):
         self.cc_reduction = cc_reduction
     
      def show_stats(self):
-        print(f"{self.name} is level {self.level}. ")
-        print(f"{self.name} has {self.health} hp.")
-        print(f"{self.name} has {self.mana} mana.")
-        print(f"{self.name} has {self.defense} armor.")
-        print(f"{self.name} has {self.attack_power} {self.damage_type} attack.")
+        super().show_stats()
         print(f"{self.name} has {self.shield} shield.")
         print(f"{self.name} has {self.cc_reduction} CC reduction.")
         
@@ -76,11 +72,7 @@ class Assassin(GameCharacter):
         self.crit_damage = crit_damage
     
      def show_stats(self):
-        print(f"{self.name} is level {self.level}. ")
-        print(f"{self.name} has {self.health} hp.")
-        print(f"{self.name} has {self.mana} mana.")
-        print(f"{self.name} has {self.defense} armor.")
-        print(f"{self.name} has {self.attack_power} {self.damage_type} attack.")
+        super().show_stats()
         print(f"{self.name} has {self.crit_rate} Crit Rate.")
         print(f"{self.name} has {self.crit_damage} Crit Damage.")
 
@@ -107,11 +99,7 @@ class Fighter(GameCharacter):
         self.life_steal = life_steal
     
     def show_stats(self):
-        print(f"{self.name} is level {self.level}. ")
-        print(f"{self.name} has {self.health} hp.")
-        print(f"{self.name} has {self.mana} mana.")
-        print(f"{self.name} has {self.defense} armor.")
-        print(f"{self.name} has {self.attack_power} {self.damage_type} attack.")
+        super().show_stats()
         print(f"{self.name} has {self.rage} rage.")
         print(f"{self.name} has {self.life_steal} Lifesteal.")
 
@@ -139,11 +127,7 @@ class Mage(GameCharacter):
         self.mana_regen = mana_regen
 
     def show_stats(self):
-        print(f"{self.name} is level {self.level}. ")
-        print(f"{self.name} has {self.health} hp.")
-        print(f"{self.name} has {self.mana} mana.")
-        print(f"{self.name} has {self.defense} armor.")
-        print(f"{self.name} has {self.attack_power} {self.damage_type} attack.")
+        super().show_stats()
         print(f"{self.name} has {self.magic_crit} magic crit.")
         print(f"{self.name} has {self.mana_regen} mana regen.")
 
@@ -170,11 +154,7 @@ class Marksman(GameCharacter):
         self.penetration = penetration
 
     def show_stats(self):
-        print(f"{self.name} is level {self.level}. ")
-        print(f"{self.name} has {self.health} hp.")
-        print(f"{self.name} has {self.mana} mana.")
-        print(f"{self.name} has {self.defense} armor.")
-        print(f"{self.name} has {self.attack_power} {self.damage_type} attack.")
+        super().show_stats()
         print(f"{self.name} has {self.range} range.")
         print(f"{self.name} has {self.penetration} penetration.")
 
@@ -201,11 +181,7 @@ class Support(GameCharacter):
         self.buff_rate = buff_rate
 
     def show_stats(self):
-        print(f"{self.name} is level {self.level}. ")
-        print(f"{self.name} has {self.health} hp.")
-        print(f"{self.name} has {self.mana} mana.")
-        print(f"{self.name} has {self.defense} armor.")
-        print(f"{self.name} has {self.attack_power} {self.damage_type} attack.")
+        super().show_stats()
         print(f"{self.name} has {self.healing} healing.")
         print(f"{self.name} has {self.buff_rate} buff rate.")
 
