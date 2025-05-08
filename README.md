@@ -37,27 +37,14 @@ This program simulates a game character system inspired by Mobile Legends: Bang 
 
 ---
 ### **How to Run the Program** (di ko knows ilalagay)
-Prerequisites:
 
-Python 3.x installed on your system
+**Program Options:**
 
-Basic understanding of Python (to modify or extend the code if needed)
+⚙ Option 1: Showcase Characters - Displays detailed stats for all character classes
 
-Running the Program:
+⚙ Option 2: Simulate Battle - Runs a sequence of character actions simulating a battle
 
-Save the code to a file with .py extension (e.g., game_characters.py)
-
-Open a terminal/command prompt and navigate to the directory containing the file
-
-Run the program using the command: python game_characters.py
-
-Program Options:
-
-Option 1: Showcase Characters - Displays detailed stats for all character classes
-
-Option 2: Simulate Battle - Runs a sequence of character actions simulating a battle
-
-Option 3: Exit - Terminates the program
+⚙ Option 3: Exit - Terminates the program
 
 ---
 ### **🔔 Acknowledgement**
