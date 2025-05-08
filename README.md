@@ -18,12 +18,19 @@ This program simulates a game character system inspired by Mobile Legends: Bang 
 1. **GameCharacter Abstract Base Class:** Defines the core attributes and methods that all characters share
 
 2. **Specialized Character Classes:**
+
 🛡️ **Tank:** High defense with shield capabilities
+
 ⚔️ **Fighter:** Balanced offense with rage and lifesteal mechanics
+
 🗡️ **Assassin:** High critical damage for burst attacks
+
 🔮 **Mage:** Magic-based attacks with mana regeneration
+
 🏹 **Marksman:** Long-range physical attacks with penetration
+
 🧿 **Support:** Healing and buffing capabilities
+
 
 ⚙ **Interactive Menu:** Allows users to view character stats or simulate a battle sequence
 
