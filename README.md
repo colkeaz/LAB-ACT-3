@@ -36,7 +36,7 @@ This program simulates a game character system inspired by Mobile Legends: Bang 
 3.  **Interactive Menu:** Allows users to view character stats or simulate a battle sequence
 
 ---
-### **How to Run the Program** (di ko knows ilalagay)
+### **How to Run the Program**
 
 **Program Options:**
 
