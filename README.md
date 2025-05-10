@@ -39,7 +39,6 @@ This program simulates a game character system inspired by Mobile Legends: Bang 
 ### **How to Run the Program**
 **Installation:**<br>
 
-
 **❗ Reminder:** Ensure you have a **Python IDE** installed on your computer to run this program.
 
 ⚙ **Option 1: Downloading the File**
