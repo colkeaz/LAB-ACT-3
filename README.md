@@ -61,7 +61,7 @@ This program was created as an educational demonstration of object-oriented prog
 
 The character classes and mechanics are inspired by **Mobile Legends: Bang Bang**, though simplified for demonstration purposes. This implementation serves as a foundation that could be expanded into a more comprehensive game system with additional features like actual combat calculations, character interactions, and more sophisticated battle simulations.
 
-Special thanks to our instructor, **Ma'am Fatima Marie Agdon** for her dedication on teaching this programming language. Ofcourse, to the Python community for providing excellent documentation and resources that make learning object-oriented programming accessible.
+Special thanks to our instructor, **Ma'am Fatima Marie Agdon** for her dedication on teaching this programming language. Of course, to the Python community for providing excellent documentation and resources that make learning object-oriented programming accessible.
 
 
  
