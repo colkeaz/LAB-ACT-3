@@ -37,7 +37,37 @@ This program simulates a game character system inspired by Mobile Legends: Bang 
 
 ---
 ### **How to Run the Program**
+**Installation:**<br>
+❗ Reminder: Make sure to have a Python IDE installed to run this program.
 
+⚙ **Option 1: Downloading the File**
+ 
+1. Download the ZIP file of the Code
+  
+2. Unzip the ZIP file
+
+3. Open the folder and double-click to run the py file.
+   ```bash
+   GROUP6_LABACT3.py
+   ```
+   
+⚙ **Option 2: Cloning the Repository**
+1. Open any terminal
+
+2. Clone the Repository:
+   ```bash
+   git clone https://github.com/colkeaz/LAB-ACT-3.git
+   ```
+3. Navigate to the Game Character Folder
+   ``` bash
+   cd LAB-ACT-3
+   ```
+   
+4. Run the Python file:
+   ```bash
+   GROUP6_LABACT3.py
+   ```
+   
 **Program Options:**
 
 ⚙ Option 1: Showcase Characters - Displays detailed stats for all character classes
