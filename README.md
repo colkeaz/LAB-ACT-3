@@ -58,7 +58,7 @@ This program simulates a game character system inspired by Mobile Legends: Bang 
    ```bash
    git clone https://github.com/colkeaz/LAB-ACT-3.git
    ```
-3. Navigate to the Game Character Folder
+3. Navigate the Folder:
    ``` bash
    cd LAB-ACT-3
    ```
