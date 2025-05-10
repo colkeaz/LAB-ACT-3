@@ -47,14 +47,14 @@ This program simulates a game character system inspired by Mobile Legends: Bang 
   
 2. **Unzip the ZIP file**
 
-3. **Open the folder and double-click to run the py file.**
+3. **Open the folder and double-click to run the Python file**
    ```bash
    GROUP6_LABACT3.py
    ```
    
 ⚙ **Option 2: Cloning the Repository**
 
-❗ **Reminder:** To clone this repository, ensure you have **Git** installed on your computer
+❗ **Reminder:** To clone this repository, ensure you have **Git** installed on your computer.
 
 1. **Open any terminal**
 
