@@ -4,9 +4,9 @@
 ---
 ### **💚 Team Members 💚**
 🔹Aguila, Al John M.<br>
-🔹Landicho, Marielle<br>
-🔹Paala, Luke Andre<br>
-🔹Quijaro, Earl Leobert
+🔹Landicho, Marielle S.<br>
+🔹Paala, Luke Andre V.<br>
+🔹Quijaro, Earl Leobert L.
 
 ---
 ### **📋 Description of the System**
